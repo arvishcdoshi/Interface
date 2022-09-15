@@ -1,0 +1,14 @@
+{
+	"rore_order": "R0000023",
+	"erp_order_number": "1494256",
+	"erp_order_item": "10",
+	"ack_date_sent": "07/12/2021",
+	"ack_time_sent": "11:19:24",
+	"part_number": "ZMOD4510-EVK-HC",
+	"commit_date": "09/17/2021",
+	"order_qty": "15",
+	"planner": "980",
+	"plant": "FN01",
+	"cancellation_flag": null,
+	"cancellation_reason": null
+}
